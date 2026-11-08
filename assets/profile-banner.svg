@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nam Anh Tran — Software Engineering and Applied AI</title>
+  <desc id="desc">A navy and mint portfolio masthead with a geometric illustration connecting interfaces, systems and evidence.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#09111f"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b5d8e8" stroke-opacity=".055"/></pattern>
+    <linearGradient id="line"><stop stop-color="#80e8c8"/><stop offset="1" stop-color="#80e8c8" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="318" rx="21" fill="none" stroke="#b5d8e8" stroke-opacity=".16"/>
+  <path d="M48 58H80" stroke="#80e8c8" stroke-width="3"/>
+  <text x="94" y="64" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#80e8c8">SOFTWARE ENGINEERING × APPLIED AI</text>
+  <text x="46" y="155" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-2.5" fill="#f3f6fa">Nam Anh Tran<tspan fill="#80e8c8">.</tspan></text>
+  <text x="50" y="201" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#b4c3d6">Web applications. Grounded AI. Clear evidence.</text>
+  <rect x="49" y="245" width="240" height="30" rx="15" fill="#80e8c8" fill-opacity=".09" stroke="#80e8c8" stroke-opacity=".25"/>
+  <circle cx="66" cy="260" r="3" fill="#80e8c8"/>
+  <text x="80" y="265" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.1" fill="#c7f6e9">OPEN TO OPPORTUNITIES</text>
+  <text x="311" y="265" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#788da8">TypeScript / Python / AWS</text>
+  <g transform="translate(880 51)">
+    <path d="M24 38H116V112H24V186H116" fill="none" stroke="#80e8c8" stroke-opacity=".5" stroke-width="2"/>
+    <path d="M116 38H186M116 112H186M116 186H186" fill="none" stroke="url(#line)" stroke-width="2"/>
+    <g fill="#101f31" stroke="#354b63"><rect width="232" height="64" rx="10"/><rect y="74" width="232" height="64" rx="10"/><rect y="148" width="232" height="64" rx="10"/></g>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#80e8c8"><text x="48" y="27">INTERFACE</text><text x="48" y="101">SYSTEM</text><text x="48" y="175">EVIDENCE</text></g>
+    <g font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#aabed3"><text x="48" y="47">Thoughtful web experiences</text><text x="48" y="121">APIs, data &amp; retrieval</text><text x="48" y="195">Tests &amp; measured results</text></g>
+    <g fill="none" stroke="#80e8c8" stroke-width="1.7"><rect x="17" y="21" width="15" height="15" rx="2"/><path d="M17 26H32M17 96L24 92L32 96V106L24 110L17 106ZM24 92V102L32 96M17 96L24 102V110M17 174L23 180L33 168"/></g>
+  </g>
+</svg>
